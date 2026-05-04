@@ -24,7 +24,8 @@ This project allows users to upload a PDF and ask questions. The system extracts
    streamlit run app.py
 
 ## 📷 Output
-(Add your screenshot here)
+(<img width="1639" height="822" alt="Screenshot 2026-05-04 044558" src="https://github.com/user-attachments/assets/1b8fa680-a381-4b23-8bfa-835238a7fd36" />
+)
 
 ## 👨‍💻 Team
 Group G39 - Bug Busters
